@@ -16,6 +16,7 @@
 		0D30088A2AD8BEF100087AEC /* Week_09___AssetsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D3008892AD8BEF100087AEC /* Week_09___AssetsTests.swift */; };
 		0D3008942AD8BEF100087AEC /* Week_09___AssetsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D3008932AD8BEF100087AEC /* Week_09___AssetsUITests.swift */; };
 		0D3008962AD8BEF100087AEC /* Week_09___AssetsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D3008952AD8BEF100087AEC /* Week_09___AssetsUITestsLaunchTests.swift */; };
+		0D7FE5992B069EB100204598 /* dark_laugh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0D7FE5982B069EB000204598 /* dark_laugh.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0D30088F2AD8BEF100087AEC /* Week 09 - AssetsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Week 09 - AssetsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D3008932AD8BEF100087AEC /* Week_09___AssetsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Week_09___AssetsUITests.swift"; sourceTree = "<group>"; };
 		0D3008952AD8BEF100087AEC /* Week_09___AssetsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Week_09___AssetsUITestsLaunchTests.swift"; sourceTree = "<group>"; };
+		0D7FE5982B069EB000204598 /* dark_laugh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dark_laugh.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		0D3008712AD8BEED00087AEC /* Week 09 - Assets */ = {
 			isa = PBXGroup;
 			children = (
+				0D7FE5982B069EB000204598 /* dark_laugh.mp3 */,
 				0D3008722AD8BEED00087AEC /* AppDelegate.swift */,
 				0D3008742AD8BEED00087AEC /* SceneDelegate.swift */,
 				0D3008762AD8BEED00087AEC /* ViewController.swift */,
@@ -233,6 +236,7 @@
 			files = (
 				0D30087F2AD8BEF000087AEC /* LaunchScreen.storyboard in Resources */,
 				0D30087C2AD8BEF000087AEC /* Assets.xcassets in Resources */,
+				0D7FE5992B069EB100204598 /* dark_laugh.mp3 in Resources */,
 				0D30087A2AD8BEED00087AEC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
